@@ -1,0 +1,72 @@
+body{
+    font-family:'Poppins', sans-serif;
+}
+/* slider */
+.slider-info h1{
+    font-size:3vw;
+}
+.slider-info p{
+    font-size:1vw;
+}
+.slider-info a{
+    background-color: white;
+    color: #3F87F5;
+    padding: .5% 4%;
+}
+
+/* our packadge */
+.package-card h1{
+    color: #231D4F;
+    font-weight: 700;
+}
+.package-card h2{
+    color: #231D4F;
+    font-weight: 700;
+}
+.package-card p{
+    color: #848199;
+}
+.package-card a{
+    background-color: #f496d236;
+    color: #3F87F5;
+   font-weight: 600;
+   padding: 10px 0px;
+}
+.hot-package{
+    background-color: #77a3e6d2;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px rgb(116, 116, 113);
+}
+.hot-package h1{
+    color:  white;
+    font-weight: 700;
+}
+.hot-package h2{
+    color:  white;
+    font-weight: 700;
+}
+.hot-package p{
+    color:  white;
+}
+.hot-package a{
+    background-color: white;
+    color: #0c5fdb;
+   font-weight: 600;
+   padding: 10px 0px;
+}
+
+/* Happy-Clients-card */
+.Happy-Clients-card {
+    color: #6C6C6C;
+}
+.Happy-Clients-card h4{
+    color: black;
+    
+}
+
+/* footer */
+footer{
+   background-color: #0B0D17;
+   color: aliceblue;
+   padding: 30px 0px;
+}
